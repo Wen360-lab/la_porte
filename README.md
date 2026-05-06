@@ -11,7 +11,7 @@ Vous n’utiliserez aucune bibliothèque JavaScript externe
 La syntaxe attendue est ECMAScript 2015 (ES6)
 📁 Mise en place du projet
 Faites un fork du dépôt suivant :
-👉 https://github.com/mendoc/la-porte.git
+👉 https://github.com/dasilva218/la_porte
 Clonez votre fork en local :
 git clone <votre-lien-du-fork>
 📂 Organisation du projet
